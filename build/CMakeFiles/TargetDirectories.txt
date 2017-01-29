@@ -1,0 +1,3 @@
+/home/jiazhan/quadris/build/CMakeFiles/edit_cache.dir
+/home/jiazhan/quadris/build/CMakeFiles/rebuild_cache.dir
+/home/jiazhan/quadris/build/CMakeFiles/quadris.dir
