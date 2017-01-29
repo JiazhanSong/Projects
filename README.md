@@ -2,6 +2,9 @@
 
 It's like Tetris, but we were forced to do it.
 
+This project was started pre-github use for this account.
+Original repository here: https://github.com/prshreshtha/quadris
+
 ## Building
 
 First, you will need:
